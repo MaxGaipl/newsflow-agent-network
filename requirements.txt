@@ -1,0 +1,49 @@
+# NewsFlow Agent Network - Core Dependencies
+
+# Core LangGraph and LangChain
+langgraph>=0.5.3
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+
+# LLM Providers (choose based on preference)
+langchain-openai>=0.2.0
+langchain-anthropic>=0.2.0
+
+# Tools and Utilities
+langchain-experimental>=0.3.0
+tavily-python>=0.5.0  # Web search tool
+
+# Data Processing
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+typing-extensions>=4.8.0
+
+# Database and Persistence
+sqlite3  # Built-in with Python
+psycopg2-binary>=2.9.0  # PostgreSQL (optional)
+
+# Knowledge Graph (Phase 4)
+networkx>=3.0  # Graph processing
+matplotlib>=3.7.0  # Graph visualization
+plotly>=5.17.0  # Interactive visualizations
+
+# Development and Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.11.0
+black>=23.7.0
+flake8>=6.0.0
+mypy>=1.5.0
+pre-commit>=3.4.0
+
+# Jupyter for experimentation
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.2.0
+
+# Monitoring and Debugging
+langsmith>=0.1.0  # LangChain monitoring
