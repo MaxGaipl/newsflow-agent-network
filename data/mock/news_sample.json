@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "AI Breakthrough in Language Models",
+    "content": "Researchers have announced a significant breakthrough in language model efficiency, reducing computational requirements by 40% while maintaining performance.",
+    "source": "TechNews Daily",
+    "published_date": "2024-01-15T10:30:00Z",
+    "category": "technology",
+    "tags": ["AI", "machine learning", "efficiency"]
+  },
+  {
+    "id": "2",
+    "title": "Climate Change Summit Reaches New Agreement",
+    "content": "World leaders have agreed on new climate targets, with commitments to reduce carbon emissions by 50% by 2030.",
+    "source": "Global Environment Report",
+    "published_date": "2024-01-15T14:20:00Z",
+    "category": "environment",
+    "tags": ["climate change", "policy", "sustainability"]
+  },
+  {
+    "id": "3",
+    "title": "New Medical Treatment Shows Promise",
+    "content": "Clinical trials for a new cancer treatment have shown a 75% success rate in early-stage patients, offering hope for millions.",
+    "source": "Medical Science Today",
+    "published_date": "2024-01-15T16:45:00Z",
+    "category": "health",
+    "tags": ["medicine", "cancer", "clinical trials"]
+  }
+]
